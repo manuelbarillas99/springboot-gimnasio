@@ -1,1 +1,3 @@
 # springboot-gimnasio
+HACER EN UNA TERMINAL POSTGRES
+CREATE DATABASE gymba22004;
